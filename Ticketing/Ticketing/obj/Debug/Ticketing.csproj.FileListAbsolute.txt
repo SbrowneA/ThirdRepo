@@ -1,0 +1,44 @@
+G:\4TSD\Resources\Session10\StudentFiles\Ticketing_Proj\Ticketing\Ticketing\bin\Debug\Ticketing.exe
+G:\4TSD\Resources\Session10\StudentFiles\Ticketing_Proj\Ticketing\Ticketing\bin\Debug\Ticketing.pdb
+G:\4TSD\Resources\Session10\StudentFiles\Ticketing_Proj\Ticketing\Ticketing\obj\Debug\ResolveAssemblyReference.cache
+G:\4TSD\Resources\Session10\StudentFiles\Ticketing_Proj\Ticketing\Ticketing\obj\Debug\Ticketing.Properties.Resources.resources
+G:\4TSD\Resources\Session10\StudentFiles\Ticketing_Proj\Ticketing\Ticketing\obj\Debug\Ticketing.TicketsForm.resources
+G:\4TSD\Resources\Session10\StudentFiles\Ticketing_Proj\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.GenerateResource.Cache
+G:\4TSD\Resources\Session10\StudentFiles\Ticketing_Proj\Ticketing\Ticketing\obj\Debug\Ticketing.exe
+G:\4TSD\Resources\Session10\StudentFiles\Ticketing_Proj\Ticketing\Ticketing\obj\Debug\Ticketing.pdb
+G:\4TSD\Resources\Session10\Ticketing_Proj\Ticketing\Ticketing\obj\Debug\Ticketing.exe
+G:\4TSD\Resources\Session10\Ticketing_Proj\Ticketing\Ticketing\obj\Debug\Ticketing.pdb
+C:\TAFE\2011_S2\4TSD\Resources\Session10\StudentFiles\Ticketing\Ticketing\bin\Debug\Ticketing.exe
+C:\TAFE\2011_S2\4TSD\Resources\Session10\StudentFiles\Ticketing\Ticketing\bin\Debug\Ticketing.pdb
+C:\TAFE\2011_S2\4TSD\Resources\Session10\StudentFiles\Ticketing\Ticketing\obj\Debug\ResolveAssemblyReference.cache
+C:\TAFE\2011_S2\4TSD\Resources\Session10\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.Properties.Resources.resources
+C:\TAFE\2011_S2\4TSD\Resources\Session10\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.TicketsForm.resources
+C:\TAFE\2011_S2\4TSD\Resources\Session10\StudentFiles\Ticketing\Ticketing\obj\Debug\ResGen.read.1.tlog
+C:\TAFE\2011_S2\4TSD\Resources\Session10\StudentFiles\Ticketing\Ticketing\obj\Debug\ResGen.write.1.tlog
+C:\TAFE\2011_S2\4TSD\Resources\Session10\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.exe
+C:\TAFE\2011_S2\4TSD\Resources\Session10\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.pdb
+C:\Temp\StudentFiles (1)\StudentFiles\Ticketing\Ticketing\bin\Debug\Ticketing.exe
+C:\Temp\StudentFiles (1)\StudentFiles\Ticketing\Ticketing\bin\Debug\Ticketing.pdb
+C:\Temp\StudentFiles (1)\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.Properties.Resources.resources
+C:\Temp\StudentFiles (1)\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.TicketsForm.resources
+C:\Temp\StudentFiles (1)\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.GenerateResource.Cache
+C:\Temp\StudentFiles (1)\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.exe
+C:\Temp\StudentFiles (1)\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.pdb
+D:\MyTafe\2017_S1\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\bin\Debug\Ticketing.exe.config
+D:\MyTafe\2017_S1\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\bin\Debug\Ticketing.exe
+D:\MyTafe\2017_S1\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\bin\Debug\Ticketing.pdb
+D:\MyTafe\2017_S1\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.csprojResolveAssemblyReference.cache
+D:\MyTafe\2017_S1\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.Properties.Resources.resources
+D:\MyTafe\2017_S1\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.TicketsForm.resources
+D:\MyTafe\2017_S1\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.GenerateResource.Cache
+D:\MyTafe\2017_S1\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.exe
+D:\MyTafe\2017_S1\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.pdb
+D:\MyTafe\2107_S2\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\bin\Debug\Ticketing.exe.config
+D:\MyTafe\2107_S2\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\bin\Debug\Ticketing.exe
+D:\MyTafe\2107_S2\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\bin\Debug\Ticketing.pdb
+D:\MyTafe\2107_S2\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.csprojResolveAssemblyReference.cache
+D:\MyTafe\2107_S2\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.Properties.Resources.resources
+D:\MyTafe\2107_S2\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.TicketsForm.resources
+D:\MyTafe\2107_S2\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.GenerateResource.Cache
+D:\MyTafe\2107_S2\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.exe
+D:\MyTafe\2107_S2\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.pdb

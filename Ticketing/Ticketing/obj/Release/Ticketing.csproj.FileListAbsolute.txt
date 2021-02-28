@@ -1,0 +1,8 @@
+G:\4TSD\Resources\Session10\StudentFiles\Ticketing_Proj\Ticketing\Ticketing\obj\Release\ResolveAssemblyReference.cache
+G:\4TSD\Resources\Session10\StudentFiles\Ticketing_Proj\Ticketing\Ticketing\obj\Release\Ticketing.Properties.Resources.resources
+G:\4TSD\Resources\Session10\StudentFiles\Ticketing_Proj\Ticketing\Ticketing\obj\Release\Ticketing.TicketsForm.resources
+G:\4TSD\Resources\Session10\StudentFiles\Ticketing_Proj\Ticketing\Ticketing\obj\Release\Ticketing.csproj.GenerateResource.Cache
+G:\4TSD\Resources\Session10\StudentFiles\Ticketing_Proj\Ticketing\Ticketing\bin\Release\Ticketing.exe
+G:\4TSD\Resources\Session10\StudentFiles\Ticketing_Proj\Ticketing\Ticketing\bin\Release\Ticketing.pdb
+G:\4TSD\Resources\Session10\StudentFiles\Ticketing_Proj\Ticketing\Ticketing\obj\Release\Ticketing.exe
+G:\4TSD\Resources\Session10\StudentFiles\Ticketing_Proj\Ticketing\Ticketing\obj\Release\Ticketing.pdb
