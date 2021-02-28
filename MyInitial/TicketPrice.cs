@@ -17,6 +17,8 @@ namespace MyNameSpace
         const decimal mdecGeneral = 28.75m;
         const decimal mdecBox = 62.0m;
         const decimal mdecDiscount = 5.0m; 
+        const decimal mdecBackStall = 15.0m; 
+
 
         private int Section
         {
@@ -65,6 +67,9 @@ namespace MyNameSpace
              case 3:
                  mPrice = mdecBox;
                  break;
+                case 4:
+                    mPrice = mdecBackStall;
+                    break;
          }
          if (discount)
          { mPrice -= mdecDiscount; }
