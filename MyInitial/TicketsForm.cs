@@ -15,6 +15,7 @@ namespace MyNameSpace
         int mSection = 2;
         int mQuantity = 0;
         bool mDiscount = false;
+        bool mChildDiscount = false;
 
         public TicketsForm()
         {
@@ -32,7 +33,8 @@ namespace MyNameSpace
 
             if (chkDiscount.Checked)
                 { mDiscount = true; }
-
+            if (chkChildDiscount.Checked) 
+                { mChildDiscount = true; }
             if (radBalcony.Checked)
                 { mSection = 1; }
             if (radGeneral.Checked)
@@ -42,10 +44,27 @@ namespace MyNameSpace
             if (radBackStall.Checked) 
                 { mSection = 4; }
 
-            mTicketPrice = new TicketPrice(mSection, mQuantity, mDiscount);
+            mTicketPrice = new TicketPrice(mSection, mQuantity, mDiscount, mChildDiscount);
 
             mTicketPrice.calculatePrice();
             lblAmount.Text = System.Convert.ToString(mTicketPrice.AmountDue);
         }
-     }
+
+        private void chkDiscount_CheckedChanged(object sender, EventArgs e)
+        {
+            if (chkChildDiscount.Checked) {
+                chkChildDiscount.Checked = false;
+                //chkDiscount.Checked = true;
+            }
+        }
+
+        private void chkChildDiscount_CheckedChanged(object sender, EventArgs e)
+        {
+            if (chkDiscount.Checked)
+            {
+                chkDiscount.Checked = false;
+                //chkChildDiscount.Checked = true;
+            }
+        }
+    }
 }

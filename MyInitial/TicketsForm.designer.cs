@@ -33,6 +33,7 @@
             this.lblAmountDue = new System.Windows.Forms.Label();
             this.lblAmount = new System.Windows.Forms.Label();
             this.chkDiscount = new System.Windows.Forms.CheckBox();
+            this.chkChildDiscount = new System.Windows.Forms.CheckBox();
             this.radBalcony = new System.Windows.Forms.RadioButton();
             this.radGeneral = new System.Windows.Forms.RadioButton();
             this.radBox = new System.Windows.Forms.RadioButton();
@@ -84,6 +85,18 @@
             this.chkDiscount.TabIndex = 5;
             this.chkDiscount.Text = "Senior / Student";
             this.chkDiscount.UseVisualStyleBackColor = true;
+            this.chkDiscount.CheckedChanged += new System.EventHandler(this.chkDiscount_CheckedChanged);
+            // 
+            // chkChildDiscount
+            // 
+            this.chkChildDiscount.AutoSize = true;
+            this.chkChildDiscount.Location = new System.Drawing.Point(240, 95);
+            this.chkChildDiscount.Name = "chkChildDiscount";
+            this.chkChildDiscount.Size = new System.Drawing.Size(84, 17);
+            this.chkChildDiscount.TabIndex = 5;
+            this.chkChildDiscount.Text = "Below 12 yo";
+            this.chkChildDiscount.UseVisualStyleBackColor = true;
+            this.chkChildDiscount.CheckedChanged += new System.EventHandler(this.chkChildDiscount_CheckedChanged);
             // 
             // radBalcony
             // 
@@ -158,6 +171,7 @@
             this.Controls.Add(this.cmdCalculate);
             this.Controls.Add(this.grpSection);
             this.Controls.Add(this.chkDiscount);
+            this.Controls.Add(this.chkChildDiscount);
             this.Controls.Add(this.lblAmount);
             this.Controls.Add(this.lblAmountDue);
             this.Controls.Add(this.txtQuantity);
@@ -179,6 +193,7 @@
         private System.Windows.Forms.Label lblAmountDue;
         private System.Windows.Forms.Label lblAmount;
         private System.Windows.Forms.CheckBox chkDiscount;
+        private System.Windows.Forms.CheckBox chkChildDiscount;
         private System.Windows.Forms.RadioButton radBalcony;
         private System.Windows.Forms.RadioButton radGeneral;
         private System.Windows.Forms.RadioButton radBox;

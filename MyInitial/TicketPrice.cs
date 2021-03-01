@@ -10,6 +10,7 @@ namespace MyNameSpace
         private int section;
         private int quantity;
         private bool discount;
+        private bool childDiscount;
         private decimal amountDue;
         private decimal mPrice;
 
@@ -17,6 +18,7 @@ namespace MyNameSpace
         const decimal mdecGeneral = 28.75m;
         const decimal mdecBox = 62.0m;
         const decimal mdecDiscount = 5.0m; 
+        const decimal mdecChildDiscount = 10.0m; 
         const decimal mdecBackStall = 15.0m; 
 
 
@@ -37,6 +39,11 @@ namespace MyNameSpace
             get { return discount; }
             set { discount = value; }
         }
+        private bool ChildDiscount
+        {
+            get { return childDiscount; }
+            set { childDiscount = value; }
+        }
 
          public decimal AmountDue
         {
@@ -45,11 +52,12 @@ namespace MyNameSpace
         }
 
     // Constructor for TcicketPrice
-    public TicketPrice(int section, int quantity, bool discount)
+    public TicketPrice(int section, int quantity, bool discount, bool childDiscount)
     {
         Section = section;
         Quantity = quantity;
         Discount = discount;
+        ChildDiscount = childDiscount;
         AmountDue = amountDue;
     }
 
@@ -71,8 +79,11 @@ namespace MyNameSpace
                     mPrice = mdecBackStall;
                     break;
          }
-         if (discount)
-         { mPrice -= mdecDiscount; }
+
+            if (discount)
+            { mPrice -= mdecDiscount; }
+            else if (childDiscount) 
+            { mPrice -= mdecChildDiscount; }
 
          AmountDue = mPrice * quantity;
 
